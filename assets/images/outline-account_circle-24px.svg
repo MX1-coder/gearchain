@@ -1,0 +1,11 @@
+<svg id="outline-account_circle-24px" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Bounding_Boxes">
+    <path id="Path_2264" data-name="Path 2264" d="M0,0H20V20H0Z" fill="none"/>
+  </g>
+  <g id="Outline" transform="translate(2 2)">
+    <g id="Group_29" data-name="Group 29">
+      <path id="Path_2265" data-name="Path 2265" d="M10,2a8,8,0,1,0,8,8A8,8,0,0,0,10,2ZM6.056,15.024C6.4,14.3,8.5,13.6,10,13.6s3.608.7,3.944,1.424a6.34,6.34,0,0,1-7.888,0Zm9.032-1.16C13.944,12.472,11.168,12,10,12s-3.944.472-5.088,1.864a6.4,6.4,0,1,1,10.176,0Z" transform="translate(-2 -2)" fill="#888"/>
+      <path id="Path_2266" data-name="Path 2266" d="M12,6a3.5,3.5,0,1,0,3.5,3.5A3.491,3.491,0,0,0,12,6Zm0,5a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,12,11Z" transform="translate(-4 -3.231)" fill="#888"/>
+    </g>
+  </g>
+</svg>

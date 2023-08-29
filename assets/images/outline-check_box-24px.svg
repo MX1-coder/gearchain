@@ -1,0 +1,11 @@
+<svg id="outline-check_box-24px" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Bounding_Boxes">
+    <path id="Path_3522" data-name="Path 3522" d="M0,0H20V20H0Z" fill="none"/>
+  </g>
+  <g id="Outline_1_" transform="translate(3 3)">
+    <g id="Group_397" data-name="Group 397">
+      <path id="Path_3523" data-name="Path 3523" d="M15.444,3H4.556A1.56,1.56,0,0,0,3,4.556V15.444A1.56,1.56,0,0,0,4.556,17H15.444A1.56,1.56,0,0,0,17,15.444V4.556A1.56,1.56,0,0,0,15.444,3Zm0,12.444H4.556V4.556H15.444Z" transform="translate(-3 -3)" fill="#888"/>
+      <path id="Path_3524" data-name="Path 3524" d="M13.99,9l-.94-1.42L8.657,14.17,6.937,11.6,5.99,13.01,8.657,17Z" transform="translate(-3 -5.135)" fill="#888"/>
+    </g>
+  </g>
+</svg>

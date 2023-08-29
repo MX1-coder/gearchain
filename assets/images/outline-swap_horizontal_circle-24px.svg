@@ -1,0 +1,12 @@
+<svg id="outline-swap_horizontal_circle-24px" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Bounding_Boxes">
+    <path id="Path_2502" data-name="Path 2502" d="M0,0H20V20H0Z" fill="none"/>
+  </g>
+  <g id="Outline" transform="translate(2 2)">
+    <g id="Group_111" data-name="Group 111">
+      <path id="Path_2503" data-name="Path 2503" d="M10,2a8,8,0,1,0,8,8A8,8,0,0,0,10,2Zm0,14.4A6.4,6.4,0,1,1,16.4,10,6.408,6.408,0,0,1,10,16.4Z" transform="translate(-2 -2)" fill="#888"/>
+      <path id="Path_2504" data-name="Path 2504" d="M15,6.5V9H11v2h4v2.5L18.5,10Z" transform="translate(-4.88 -3.385)" fill="#888"/>
+      <path id="Path_2505" data-name="Path 2505" d="M9,10.5,5.5,14,9,17.5V15h4V13H9Z" transform="translate(-3.12 -4.615)" fill="#888"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg id="outline-add_box-24px" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Bounding_Boxes">
+    <path id="Path_2768" data-name="Path 2768" d="M0,0H20V20H0Z" fill="none"/>
+  </g>
+  <g id="Outline" transform="translate(3 3)">
+    <g id="Group_193" data-name="Group 193">
+      <path id="Path_2769" data-name="Path 2769" d="M15.444,3H4.556A1.555,1.555,0,0,0,3,4.556V15.444A1.555,1.555,0,0,0,4.556,17H15.444A1.56,1.56,0,0,0,17,15.444V4.556A1.56,1.56,0,0,0,15.444,3Zm0,12.444H4.556V4.556H15.444Z" transform="translate(-3 -3)" fill="#1f1f1f"/>
+      <path id="Path_2770" data-name="Path 2770" d="M9.4,13h1.2V10.6H13V9.4H10.6V7H9.4V9.4H7v1.2H9.4Z" transform="translate(-3 -3)" fill="#1f1f1f"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.794" height="18.382" viewBox="0 0 32.794 18.382">
+  <g id="Group_104" data-name="Group 104" transform="translate(797.61 -2422.846)">
+    <g id="Rectangle_91" data-name="Rectangle 91" transform="translate(-791.237 2423)" fill="none" stroke="#eb2020" stroke-width="1">
+      <path d="M0,0H19.582a0,0,0,0,1,0,0V16.228a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M1,.5H18.582a.5.5,0,0,1,.5.5V16.228a1.5,1.5,0,0,1-1.5,1.5H2a1.5,1.5,0,0,1-1.5-1.5V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+    </g>
+    <path id="Path_138" data-name="Path 138" d="M-796.9,2429.453l5.853-5.975" transform="translate(0 0.074)" fill="none" stroke="#eb2020" stroke-linecap="round" stroke-width="1"/>
+    <path id="Path_139" data-name="Path 139" d="M0,6.207,2.67,3.574S5.082.846,5.94,0" transform="translate(-771.844 2429.514) rotate(-89)" fill="none" stroke="#eb2020" stroke-linecap="round" stroke-width="1"/>
+    <g id="Rectangle_92" data-name="Rectangle 92" transform="translate(-788.053 2426.07)" fill="none" stroke="#eb2020" stroke-width="1">
+      <rect width="12.712" height="4.623" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="11.712" height="3.623" rx="1.5" fill="none"/>
+    </g>
+  </g>
+</svg>

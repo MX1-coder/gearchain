@@ -1,0 +1,11 @@
+<svg id="outline-insert_invitation-24px" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Bounding_Boxes">
+    <path id="Path_2880" data-name="Path 2880" d="M0,0H20V20H0Z" fill="none"/>
+  </g>
+  <g id="Outline" transform="translate(3 1)">
+    <g id="Group_223" data-name="Group 223">
+      <path id="Path_2881" data-name="Path 2881" d="M15.444,2.6h-.778V1H13.111V2.6H6.889V1H5.333V2.6H4.556A1.571,1.571,0,0,0,3.008,4.2L3,15.4A1.578,1.578,0,0,0,4.556,17H15.444A1.583,1.583,0,0,0,17,15.4V4.2A1.583,1.583,0,0,0,15.444,2.6Zm0,12.8H4.556v-8H15.444Zm0-9.6H4.556V4.2H15.444Z" transform="translate(-3 -1)" fill="#888"/>
+      <path id="XMLID_72_" d="M17,12H12v5h5Z" transform="translate(-5.769 -3.933)" fill="#888"/>
+    </g>
+  </g>
+</svg>

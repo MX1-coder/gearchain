@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+  <g id="user_guide" data-name="user guide" transform="translate(0.5 0.5)">
+    <g id="Category">
+      <path id="Stroke_1" data-name="Stroke 1" d="M0,3.111C0,.778.025,0,3.111,0S6.222.778,6.222,3.111s.01,3.111-3.111,3.111S0,5.445,0,3.111Z" transform="translate(0 0)" fill="none" stroke="#767676" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Stroke_3" data-name="Stroke 3" d="M0,3.111C0,.778.025,0,3.111,0S6.222.778,6.222,3.111s.01,3.111-3.111,3.111S0,5.445,0,3.111Z" transform="translate(9.778 0)" fill="none" stroke="#767676" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Stroke_5" data-name="Stroke 5" d="M0,3.111C0,.778.025,0,3.111,0S6.222.778,6.222,3.111s.01,3.111-3.111,3.111S0,5.445,0,3.111Z" transform="translate(0 9.778)" fill="none" stroke="#767676" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Stroke_7" data-name="Stroke 7" d="M0,3.111C0,.778.025,0,3.111,0S6.222.778,6.222,3.111s.01,3.111-3.111,3.111S0,5.445,0,3.111Z" transform="translate(9.778 9.778)" fill="none" stroke="#767676" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
